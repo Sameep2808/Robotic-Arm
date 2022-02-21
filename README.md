@@ -39,6 +39,6 @@ SOFTWARE.
 - Packages Used : nRF24L01, SPI
 
 ## Working
-![g1](https://github.com/Sameep2808/Robotic-Arm/tree/main/gif/2.gif)
+![g1](https://github.com/Sameep2808/Robotic-Arm/blob/main/gif/2.gif)
 ![g2](https://github.com/Sameep2808/Robotic-Arm/blob/main/gif/ezgif.com-gif-maker.gif)
 
